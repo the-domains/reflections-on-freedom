@@ -1,52 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://medium.com/@jonaso/where-do-we-go-towards-poss-b0474e28b73c#.ah93z48fm'
-inLanguage: en
-starred: true
-keywords:
-  - copyright
-  - software
-  - develop
-  - poss
-  - github
-  - licenses
-  - code
-  - digital
-  - content
-  - principles
-description: "In 2012, James Governor coined the term POSS - Post Open Source Software - as a way to capture the feeling of a young group of new developers who feel that we should all just \"fuck the license and governance, [and] commit to github.\" In our fast paced development environment, we've established free and open source software as the norm for development."
-datePublished: '2016-01-04T18:40:25.617Z'
-dateModified: '2016-01-04T18:40:01.488Z'
-author:
-  - name: Jonas Öberg
-    url: 'https://medium.com/@jonaso'
-    avatar: {}
-related: []
-app_links:
-  - type: android
-    app_name: Medium
-    app_store_id: '828256236'
-    package: com.medium.reader
-  - url: 'medium:/p/b0474e28b73c'
-    type: ios
-    app_name: Medium
-  - url: 'medium://p/b0474e28b73c'
-    type: android
-  - url: 'https://medium.com/@jonaso/where-do-we-go-towards-poss-b0474e28b73c'
-    type: web
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-04T18:47:31.503Z'
+dateModified: '2016-01-04T18:47:19.379Z'
 title: Where do we go towards POSS?
+author: []
 authors: []
 publisher:
-  name: Medium
-  domain: medium.com
-  url: 'https://medium.com'
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
+  name: null
+  domain: null
+  url: null
+  favicon: null
 sourcePath: _posts/2016-01-04-where-do-we-go-towards-poss.md
 published: true
-_context: 'http://schema.org'
-_type: MediaObject
+url: where-do-we-go-towards-poss/index.html
+_type: Article
 
 ---
 # Where do we go towards POSS?

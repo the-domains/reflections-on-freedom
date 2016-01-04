@@ -1,7 +1,7 @@
 name: Reflections on Freedom
 favicon: null
 layout_spectrum: 0.13089273287914693
-typography_spectrum: 0.7762424787506461
+typography_spectrum: 1
 title: Reflections on Freedom
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.08469694782979786
+    - '#000000'
+    - '#ffffff'
+    - '#313131'
+    - '#01b12e'
+    - '#c3c3c3'
+  brandStrength: 0.375
   lightness: 0.6888151888269931
   saturation: 0.6899626080412418
   rhythmicContrast: 0.7701998350676149

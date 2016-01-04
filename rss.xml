@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reflections on Freedom]]></title>
+        <description><![CDATA[Reflections on Freedom]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 18:48:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where do we go towards POSS?]]></title>
+            <description><![CDATA[<article><h1>Where do we go towards POSS?</h1><p>[originally published October 17th 2014 on Medium. Revised and re-published here January 4th 2016]</p></article>]]></description>
+            <link>undefinedwhere-do-we-go-towards-poss/index.html</link>
+            <guid isPermaLink="false">3688df2b-cc33-446e-b419-29eb0791adbf</guid>
+            <pubDate>Mon, 04 Jan 2016 18:47:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
